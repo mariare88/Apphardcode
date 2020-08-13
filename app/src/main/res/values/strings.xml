@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">login_hardcodeMR</string>
+    <string name="digite_seu_usu_rio">Digite seu usuário</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
 </resources>
