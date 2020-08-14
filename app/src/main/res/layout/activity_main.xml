@@ -8,11 +8,11 @@
     tools:context=".activities.MainActivity">
 
     <EditText
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_margin="10dp"
-       android:id="@+id/edittext_n1"
-       android:hint="@string/digite_seu_usu_rio" />
+        android:id="@+id/edittext_n1"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:layout_margin="10dp"
+        android:hint="@string/digite_seu_usu_rio" />
 
     <EditText
         android:layout_width="match_parent"
